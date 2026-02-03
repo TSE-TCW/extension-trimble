@@ -1,11 +1,11 @@
 {
-  "name": "Extension Simple TCW",
-  "description": "Une extension de test simple pour Trimble Connect Web",
+  "id": "extension-trimble-test",
+  "name": "Extension Trimble Test",
   "version": "1.0.0",
-  "main": "index.html",
-  "permissions": [],
-  "author": "TonNom",
-  "trimble": {
-    "minVersion": "2.0.0"
+  "description": "Extension simple de test Trimble Connect Web",
+  "type": "extension",
+  "ui": {
+    "entryPoint": "index.html",
+    "icon": ""
   }
 }
