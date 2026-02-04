@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "description": "Extension simple de test Trimble Connect Web",
   "type": "extension",
-  "url": "https://tse-tcw.github.io/extension-trimble/manifest.json",
+  "url": "https://tse-tcw.github.io/extension-trimble",
   "ui": {
-    "entryPoint": "https://tse-tcw.github.io/extension-trimble/index.html",
-    "icon": "https://tse-tcw.github.io/extension-trimble/icon.png"
+    "entryPoint": "./index.html",
+    "icon": "./icon.png"
   }
 }
