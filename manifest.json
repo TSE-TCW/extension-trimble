@@ -6,6 +6,6 @@
   "type": "extension",
   "ui": {
     "entryPoint": "index.html",
-    "icon": ""
+    "icon": "icon.png"
   }
 }
